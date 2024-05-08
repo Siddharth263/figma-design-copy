@@ -35,9 +35,9 @@ For a demonstration of the application's functionality, responsiveness, and key 
 
 For any questions or further information, feel free to contact:
 
-- [Your Name]
-- [Your Email Address]
-- [Your Phone Number]
+- Priyanshu Lal
+- priyanshulal2213@gmail.com
+- +91-9818697118
 
 ## Links
 
