@@ -1,0 +1,19 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap");
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components {
+  .breadcrumb-p {
+    @apply text-lg tracking-wide;
+  }
+
+  .flashcard-p {
+    @apply text-lg tracking-wide font-normal text-gray-600 focus:font-bold focus:border-b-2 focus:border-[#0f3c99] px-2 py-1 focus:text-[#0f3c99];
+  }
+
+  .footer-div {
+    @apply border-[1px] border-[#0f3c99] p-4 rounded-2xl w-4/6 hover:cursor-pointer;
+  }
+}
